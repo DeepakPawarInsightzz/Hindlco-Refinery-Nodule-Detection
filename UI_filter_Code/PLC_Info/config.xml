@@ -1,0 +1,12 @@
+<HAR>
+    <CODE_PATH>/home/rfserver/insightzz/CSM2/PLC_Info/</CODE_PATH>
+
+    <DB_USER>root</DB_USER>
+    <DB_PASS>insightzz123</DB_PASS>
+    <DB_HOST>localhost</DB_HOST>
+    <DB_NAME>Refinary3_CSM1</DB_NAME>
+
+    <DOWNLOAD_PATH>/home/rfserver/Desktop/Download_Data/</DOWNLOAD_PATH>
+    
+
+</HAR>

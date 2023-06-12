@@ -1,0 +1,27 @@
+<HAR>
+    <CODE_PATH>/home/rfserver/insightzz/CSM1/code/DETECTION/</CODE_PATH>
+
+    <DB_USER>root</DB_USER>
+    <DB_PASS>insightzz123</DB_PASS>
+    <DB_HOST>localhost</DB_HOST>
+    <DB_NAME>Refinary3_CSM1</DB_NAME>
+
+    <CONFIG_YAML_FL_PATH>/home/rfserver/insightzz/CSM1/code/DETECTION/configs/COCO-InstanceSegmentation/mask_rcnn_R_101_FPN_3x.yaml</CONFIG_YAML_FL_PATH>
+    <MODEL>model_final.pth</MODEL>
+    <DETECTTHRESH>0.7</DETECTTHRESH>
+
+    <MASK_MODEL_PATH>/home/rfserver/insightzz/CSM1/code/DETECTION/modelling/modelCam1/</MASK_MODEL_PATH>
+    <ALL_CLASS_NAMES>/home/rfserver/insightzz/CSM1/code/DETECTION/modelling/modelCam1/cathode_nodule.json</ALL_CLASS_NAMES>
+
+    <IMAGE_PATH1>/home/rfserver/insightzz/CSM1/code/FRAME_CAPTURE/CAM1/TMP/IMG_1.jpg</IMAGE_PATH1>
+    <IMAGE_PATH2>/home/rfserver/insightzz/CSM1/code/FRAME_CAPTURE/CAM2/TMP/IMG_1.jpg</IMAGE_PATH2>
+    <IMAGE_PATH3>/home/rfserver/insightzz/CSM1/code/FRAME_CAPTURE/CAM3/TMP/IMG_1.jpg</IMAGE_PATH3>
+
+    <DEFECTED_IMAGE_PATH>/home/rfserver/insightzz/CSM1/code/DETECTION/DEFECTIVE_IMAGES/</DEFECTED_IMAGE_PATH>
+
+    <TOTAL>2</TOTAL>
+    <CHECK>1</CHECK>
+
+    <WINDOW_X_POS>10</WINDOW_X_POS>
+    <WINDOW_Y_POS>10</WINDOW_Y_POS>
+</HAR>

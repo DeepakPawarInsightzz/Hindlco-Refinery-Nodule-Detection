@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Insightzz
+Exec=python3 /home/rfserver/insightzz/CSM2/PLC_Info/Machine.py
+Icon=/home/rfserver/insightzz/CSM2/PLC_Info/logo/Insightzzz.png
+Path=/home/rfserver/insightzz/CSM2/PLC_Info/
+Terminal=false
+Type=Application
+Name[en_IN]=vision.desktop

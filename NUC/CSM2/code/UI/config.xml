@@ -1,0 +1,11 @@
+<HAR>
+    <CODE_PATH>/home/rfserver/insightzz/NUC/CSM2/code/UI/</CODE_PATH>
+
+    <DB_USER>root</DB_USER>
+    <DB_PASS>insightzz123</DB_PASS>
+    <DB_HOST>localhost</DB_HOST>
+    <DB_NAME>Refinary3_CSM2</DB_NAME>
+
+    <DOWNLOAD_PATH>/home/rfserver/Desktop/DOWNLOADED_DATA/</DOWNLOAD_PATH>
+
+</HAR>

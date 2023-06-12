@@ -1,0 +1,34 @@
+2023-04-25 10:09:13,982 - MV_RECORD_ACT_ - DEBUG - CODE STARTED
+2023-04-25 10:09:16,102 - MV_RECORD_ACT_ - DEBUG - Exception cam1 [Errno 2] No such file or directory: '/home/rfserver/insightzz/CSM2/code/FRAME_CAPTURE/CAM1/IMG_1.jpg'
+2023-04-25 10:09:16,124 - MV_RECORD_ACT_ - DEBUG - Exception in cam3 [Errno 2] No such file or directory: '/home/rfserver/insightzz/CSM2/code/FRAME_CAPTURE/CAM3/IMG_1.jpg'
+2023-04-25 10:09:16,145 - MV_RECORD_ACT_ - DEBUG - after while  Exception : OpenCV(4.2.0) /io/opencv/modules/highgui/src/window.cpp:717: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvWaitKey'
+
+2023-04-25 10:09:16,759 - MV_RECORD_ACT_ - DEBUG - top error : Failed to open 'Basler acA1440-73gc#00305337568B#169.254.0.39:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'GigEDevice.cpp', line 288)
+2023-04-25 10:09:17,116 - MV_RECORD_ACT_ - DEBUG - top error : Failed to open 'Basler acA1440-73gc#003053375CC6#169.254.0.40:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'GigEDevice.cpp', line 288)
+2023-04-25 10:09:17,453 - MV_RECORD_ACT_ - DEBUG - s1 error : Failed to open 'Basler acA1440-73gc#003053375CD0#169.254.0.41:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'GigEDevice.cpp', line 288)
+2023-04-25 10:09:17,461 - MV_RECORD_ACT_ - DEBUG - Exception cam1 local variable 'grabResult' referenced before assignment
+2023-04-25 10:09:17,476 - MV_RECORD_ACT_ - DEBUG - Exception cam2 local variable 'grabResult' referenced before assignment
+2023-04-25 10:09:17,491 - MV_RECORD_ACT_ - DEBUG - Exception in cam3 local variable 'grabResult' referenced before assignment
+2023-04-25 10:09:17,507 - MV_RECORD_ACT_ - DEBUG - after while  Exception : OpenCV(4.2.0) /io/opencv/modules/highgui/src/window.cpp:717: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvWaitKey'
+
+2023-04-25 10:09:18,127 - MV_RECORD_ACT_ - DEBUG - top error : Failed to open 'Basler acA1440-73gc#00305337568B#169.254.0.39:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'GigEDevice.cpp', line 288)
+2023-04-25 10:09:18,495 - MV_RECORD_ACT_ - DEBUG - top error : Failed to open 'Basler acA1440-73gc#003053375CC6#169.254.0.40:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'GigEDevice.cpp', line 288)
+2023-04-25 10:09:18,846 - MV_RECORD_ACT_ - DEBUG - s1 error : Failed to open 'Basler acA1440-73gc#003053375CD0#169.254.0.41:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'GigEDevice.cpp', line 288)
+2023-04-25 10:09:18,851 - MV_RECORD_ACT_ - DEBUG - Exception cam1 local variable 'grabResult' referenced before assignment
+2023-04-25 10:09:18,867 - MV_RECORD_ACT_ - DEBUG - Exception cam2 local variable 'grabResult' referenced before assignment
+2023-04-25 10:09:18,890 - MV_RECORD_ACT_ - DEBUG - Exception in cam3 local variable 'grabResult' referenced before assignment
+2023-04-25 10:09:18,910 - MV_RECORD_ACT_ - DEBUG - after while  Exception : OpenCV(4.2.0) /io/opencv/modules/highgui/src/window.cpp:717: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvWaitKey'
+
+2023-04-25 10:09:19,543 - MV_RECORD_ACT_ - DEBUG - top error : Failed to open 'Basler acA1440-73gc#00305337568B#169.254.0.39:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'GigEDevice.cpp', line 288)
+2023-04-25 10:09:19,904 - MV_RECORD_ACT_ - DEBUG - top error : Failed to open 'Basler acA1440-73gc#003053375CC6#169.254.0.40:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'GigEDevice.cpp', line 288)
+2023-04-25 10:10:43,283 - MV_RECORD_ACT_ - DEBUG - CODE STARTED
+2023-04-25 10:11:54,470 - MV_RECORD_ACT_ - DEBUG - CODE STARTED
+2023-04-25 10:49:19,589 - MV_RECORD_ACT_ - DEBUG - CODE STARTED

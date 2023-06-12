@@ -1,0 +1,9 @@
+2023-04-10 10:43:38,232 - UI_RECORD_ACT_ - CRITICAL - data record : (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`Auto`.`ID`,`Auto`.`Status`,`Auto`.`Start_Time`,`Auto`.`End_Time` FROM `Refinary' at line 1")
+2023-04-11 16:06:58,299 - UI_RECORD_ACT_ - CRITICAL - data record : execute() first
+2023-04-13 09:29:41,980 - UI_RECORD_ACT_ - CRITICAL - data record : execute() first
+2023-04-13 10:35:41,834 - UI_RECORD_ACT_ - CRITICAL - data record : execute() first
+2023-04-13 10:36:58,072 - UI_RECORD_ACT_ - CRITICAL - data record : execute() first
+2023-04-13 10:38:30,752 - UI_RECORD_ACT_ - CRITICAL - data record : execute() first
+2023-04-13 10:47:18,216 - UI_RECORD_ACT_ - CRITICAL - data record : (1049, "Unknown database 'Refinery3_CSM2'")
+2023-05-17 11:39:01,562 - UI_RECORD_ACT_ - CRITICAL - Add config error in CSM1 : (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''10.0)' at line 1")
+2023-05-17 11:40:28,169 - UI_RECORD_ACT_ - CRITICAL - Add config error in CSM1 : (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''10.0)' at line 1")

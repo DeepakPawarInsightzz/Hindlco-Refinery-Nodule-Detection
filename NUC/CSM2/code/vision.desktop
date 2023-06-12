@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Insightzz
+Exec=python3 /home/nuc-ctrl/insightzz/code/UI/assembly.py
+Icon=/home/nuc-ctrl/insightzz/code/UI/logo/Insightzzz.png
+Path=/home/nuc-ctrl/insightzz/code/UI/
+Terminal=false
+Type=Application
+Name[en_IN]=vision.desktop

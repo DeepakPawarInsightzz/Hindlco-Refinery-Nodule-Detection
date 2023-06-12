@@ -1,0 +1,15 @@
+[Unit]
+Description= detection start stop code
+After=network.target
+
+[Service]
+Type=forking
+User=rfserver
+WorkingDirectory=/home/rfserver/insightzz/CSM2/code/PLC
+ExecStart= python3 /home/rfserver/insightzz/CSM2/code/PLC/startStopService_CSM2.py
+TimeoutStartSec=0
+Restart=always
+RestartSec=5
+[Install]
+WantedBy=multi-user.target
+

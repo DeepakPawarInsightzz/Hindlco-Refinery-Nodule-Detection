@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>Insightzzz.png</file>
+    <file>precision.png</file>
+  </qresource>
+</RCC>
